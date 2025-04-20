@@ -25,7 +25,7 @@ A lightweight system tray application that monitors your network latency in real
 git clone https://github.com/Javadseddigh/ShowPing.git
 cd ShowPing
 pip install PyQt6
-python main.py```
+python main.py bash```###
 
 
 Usage 🖱️
