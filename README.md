@@ -26,3 +26,26 @@ git clone https://github.com/yourusername/PingMonitor.git
 cd PingMonitor
 pip install PyQt6
 python main.py
+
+
+Usage 🖱️
+Left-click & drag: Move the window
+
+Right-click tray icon: Access menu
+
+Show/Hide
+
+Settings
+
+Exit
+
+
+Building from Source 🔨
+pyinstaller --onefile --windowed --icon=icon.ico main.py
+
+
+🛠 Tech Stack: Python 3 • PyQt6 • subprocess • QSharedMemory
+
+📧 Contact: your.email@example.com | @yourhandle
+
+🔗 Project Link: https://github.com/yourusername/PingMonitor
