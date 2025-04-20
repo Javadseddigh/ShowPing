@@ -46,7 +46,7 @@ pyinstaller --onefile --windowed --icon=icon.ico main.py
 
 🛠 Tech Stack: Python 3 • PyQt6 • subprocess • QSharedMemory
 
-📧 Contact: j3591552@gmail.com | @yourhandle
+📧 Contact: j3591552@gmail.com 
 
 🔗 Project Link: https://github.com/Javadseddigh/ShowPing
 
