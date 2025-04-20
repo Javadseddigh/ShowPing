@@ -21,11 +21,11 @@ A lightweight system tray application that monitors your network latency in real
 2. Double-click to run  
 
 ### Linux (Requires Python 3.8+)  
-```bash
+
 git clone https://github.com/Javadseddigh/ShowPing.git
 cd ShowPing
 pip install PyQt6
-python main.py ```bash
+python main.py 
 
 
 Usage 🖱️
