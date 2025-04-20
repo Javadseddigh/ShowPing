@@ -1,6 +1,6 @@
 # PingMonitor - Real-time Network Ping Monitor  
 
-![PingMonitor Screenshot](https://via.placeholder.com/800x400.png?text=PingMonitor+Demo)  
+![PingMonitor Screenshot]([https://via.placeholder.com/800x400.png?text=PingMonitor+Demo](http://5.57.32.66:5000/uploads/Screenshot_2025-04-20_072104.png))  
 
 A lightweight system tray application that monitors your network latency in real-time.  
 
