@@ -22,8 +22,8 @@ A lightweight system tray application that monitors your network latency in real
 
 ### Linux (Requires Python 3.8+)  
 ```bash
-git clone https://github.com/yourusername/PingMonitor.git
-cd PingMonitor
+git clone https://github.com/Javadseddigh/ShowPing.git
+cd ShowPing
 pip install PyQt6
 python main.py
 
@@ -46,6 +46,9 @@ pyinstaller --onefile --windowed --icon=icon.ico main.py
 
 🛠 Tech Stack: Python 3 • PyQt6 • subprocess • QSharedMemory
 
-📧 Contact: your.email@example.com | @yourhandle
+📧 Contact: j3591552@gmail.com | @yourhandle
 
-🔗 Project Link: https://github.com/yourusername/PingMonitor
+🔗 Project Link: https://github.com/Javadseddigh/ShowPing
+
+
+https://via.placeholder.com/800x400.png?text=PingMonitor+Demo](http://5.57.32.66:5000/uploads/Screenshot_2025-04-20_072104.png
